@@ -1,6 +1,6 @@
 # CIFAR-10 Image Classification: Machine Learning and Deep Learning
 This project involves end-to-end data processing for CIFAR-10 image classification, optimization of both Machine Learning (ML) and Convolutional Neural Network (CNN) models, including fine-tuning individual layers in CNNs.
-
+## For detailed justification of steps and data pipeline please refer to the jupyter notebook or the pdf version of the notebook.
 ## Part 1 – Data Processing 
 
 The original [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) contains 60,000 32x32 color images across 10 classes, with 6,000 images per class. There are 50,000 training images and 10,000 test images.
